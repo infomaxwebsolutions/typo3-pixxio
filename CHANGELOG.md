@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Fix: Use the FAL API to handle file uploads, which allows to use different FAL Adapters.
+
 ## 3.4.0
 
 - Feature: Update Plugin SDK to latest version
